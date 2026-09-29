@@ -1,5 +1,7 @@
 # FadeHost Level Bot
 
+[![Deploy to FadeHost](https://fadehost.com/deploy-button.svg)](https://laplace.fadehost.com/register?intent=bot&repo=https://github.com/FadeHost/discord-level-bot)
+
 Members earn experience for chatting (once a minute at most), climb levels, and see where they stand with `/rank` and `/leaderboard`. Level-ups are announced.
 
 ## Setup on FadeHost
